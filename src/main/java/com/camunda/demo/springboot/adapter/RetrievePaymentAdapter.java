@@ -20,7 +20,7 @@ public class RetrievePaymentAdapter implements JavaDelegate {
   private String restProxyPort;
 
   private String restEndpoint() {
-    return "http://" + restProxyHost + ":" + restProxyPort + "/payment/charges";
+    return "https://" + restProxyHost + ":" + restProxyPort + "/payment/charges";
   }
   
   public static class CreateChargeRequest {
