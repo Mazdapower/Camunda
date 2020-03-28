@@ -1,4 +1,4 @@
-# Camunda Spring Boot example including REST and AMQP, automated tested and deployable in the cloud
+# Camunda Spring Boot example for MoM.  This examples will include  REST and AMQP, automated tested and deployable in the cloud
 
 This example shows:
 
